@@ -1,4 +1,4 @@
-# modernist-website
+# Modernist-website
 
 * Convert PSD to HTML/CSS and JQuery
 * Website page built for fun to practice my skills.
